@@ -1,73 +1,59 @@
-# Welcome to your Lovable project
+# CIVI-SHIELD
 
-## Project info
+> **AI-Powered Multilingual Emergency Response System for Indian Citizens**
 
-**URL**: https://lovable.dev/projects/bac72c41-df08-456e-b9d2-ea8f46c99164
+CIVI-SHIELD is a smart, AI-integrated platform designed to assist citizens during emergencies with multilingual support, real-time location tracking, and offline capabilities. It aims to provide seamless assistance even in the most critical situations.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🌟 Key Features
 
-**Use Lovable**
+- 🧠 **AI Assistant**  
+  Multilingual AI support in Hindi, Tamil, Telugu, Kannada, and English to guide users in emergency situations.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bac72c41-df08-456e-b9d2-ea8f46c99164) and start prompting.
+- 📍 **Location-Based Tracking**  
+  Real-time location tracking to help emergency responders locate users instantly.
 
-Changes made via Lovable will be committed automatically to this repo.
+- ⚡ **Offline Ready**  
+  Works even without an internet connection to ensure continuous access in low-connectivity areas.
 
-**Use your preferred IDE**
+- 🔴 **Emergency Alert System**  
+  One-click emergency alert button for quick help.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- 💬 **Simple and Intuitive UI**  
+  User-friendly interface built with accessibility and responsiveness in mind.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🚀 Technologies Used
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **React** – Frontend library for building UI
+- **TypeScript** – Type safety for JavaScript
+- **Vite** – Next-generation frontend tooling
+- **Tailwind CSS** – Utility-first CSS framework
+- **shadcn/ui** – Component library for modern interfaces
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🛠️ Getting Started
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+### Prerequisites
+
+- [Node.js](https://nodejs.org/en/) (Recommended: use [nvm](https://github.com/nvm-sh/nvm))
+
+### Installation
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/DhanushreeMS/CIVI-SHIELD.git
+
+# Navigate into the project folder
+cd CIVI-SHIELD
+
+# Install project dependencies
+npm install
+
+# Start the development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/bac72c41-df08-456e-b9d2-ea8f46c99164) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
